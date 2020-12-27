@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aqua;
+    background: url('./background.jpg') bottom center;
     display: flex;
     justify-content: center;
     align-items: center;
