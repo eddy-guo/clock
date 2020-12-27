@@ -40,7 +40,8 @@ body {
     height: 100%;
     text-align: center;
     transform: rotate(var(--rotation));
-    font-size: 2rem;
+    font-size: 2.3rem;
+    font-weight: bold;
 }
 
 .clock .number1 {--rotation: 30deg; }
