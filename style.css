@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url("./background.jpg") bottom center;
+  background: url("./background.jpg") bottom right;
   display: flex;
   justify-content: center;
   align-items: center;
